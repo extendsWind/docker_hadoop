@@ -1,0 +1,8 @@
+
+hadoop-3.1.0/*
+!hadoop-3.1.0/etc
+hadoop-3.1.0/etc/hadoop/*
+!hadoop-3.1.0/etc/hadoop/hdfs-site.xml
+hadoop_vm.tar
+hadoop_data
+
